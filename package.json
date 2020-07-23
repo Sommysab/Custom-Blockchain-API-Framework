@@ -1,0 +1,22 @@
+{
+  "name": "blockchain",
+  "description": "Blockchain GUI API BASICS",
+  "author": {
+    "name": "Sab-Udeh Sommy"
+  },
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.3",    
+    "crypto-js": "^4.0.0",    
+    "dotenv": "^8.2.0",
+    "elliptic": "^6.5.2",
+    "express": "^4.13.4",
+    "uuid": "^3.4.0"
+  }
+}
